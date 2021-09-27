@@ -1,0 +1,36 @@
+body {
+    background: rgba(135, 238, 121, 0.603);
+    font: normal 11pt Arial
+}
+header {
+    color: rgba(79, 200, 221, 0.322);
+    text-align: center
+}
+section {
+    background: rgba(37, 16, 230, 0.493);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+}
+footer {
+color: rgba(33, 240, 112, 0.897);
+text-align: center;
+font-style: italic;
+
+
+}
+h1 {
+    font-family: Arial;
+    color: black
+}
+input {
+    width: auto;
+    padding: auto
+
+}
+div {
+    width: auto;
+    padding: auto;
+    color: white
+}

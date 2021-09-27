@@ -1,0 +1,12 @@
+/*
+console.log('tudo bem')
+console.log('tudo bem')
+console.log('tudo bem')
+console.log('tudo bem')
+console.log('tudo bem')
+console.log('tudo bem')
+*/
+var C = 500
+while (C > 6) {
+    console.log("tudo bem")
+}

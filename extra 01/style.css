@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(40, 233, 240);
+    font: Arial
+}
+header {
+    font: 15pt Arial;
+    text-align: center
+}
+section {
+    background-color: whitesmoke;
+    width: max-content;
+    font: 13pt Arial
+}
+h2 {
+    text-align:center
+}
+p {
+ text-align: center;
+ font: Arial
+}
+p#2{
+font: 16px
+}
+footer {
+    text-align: center;
+    font: italic Arial
+}
+input {
+    width: 300px;
+    font: Arial 12pt;
+    text-align:center
+}
+input#calculo {
+    text-align: center;
+}
